@@ -4,7 +4,10 @@ Event Media Collection App
 Samples to work from:
 
 https://github.com/aws-samples/amplify-photo-gallery-workshop
+
 https://github.com/aws-samples/aws-serverless-workshops/blob/master/ImageProcessing
+
+https://aws.amazon.com/solutions/serverless-image-handler/?trk=sl_card
 
 Goal:
 Build an app where people can have a simple url or a qr code to scan.
